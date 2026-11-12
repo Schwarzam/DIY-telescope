@@ -32,6 +32,10 @@ The design includes:
 
 ![Mechanical Design](images/luneta.png)
 
+## Telescope
+
+![Telescope](images/im1.jpeg)
+
 ## Manufacturing and Assembly
 
 The mechanical components were designed for DIY manufacturing and assembly.
