@@ -1,4 +1,6 @@
-Y Equatorial Telescope Mount
+DIY Equatorial Telescope Mount
+
+![Telescope Mount Assembly](images/Assembly%201-3.png)
 
 This repository contains the mechanical design and 3D models of a DIY equatorial telescope mount, developed as a personal project.
 
@@ -18,13 +20,13 @@ The design includes:
 
 ## Design Preview
 
-### Complete Assembly
-
-![Telescope Mount Assembly](images/Assembly%201-3.png)
-
 ### Right Ascension Axis
 
 ![RA Axis Design](images/ra_axis_v2.png)
+
+### Declination Axis
+
+![DEC Axis Design](images/dec_axis.png)
 
 ### Mechanical Design
 
